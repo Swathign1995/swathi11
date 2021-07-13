@@ -1,1 +1,0 @@
-tesh git quick start demo
