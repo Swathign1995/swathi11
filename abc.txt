@@ -1,2 +1,3 @@
 hello 
 this is stash file
+adding more texts
